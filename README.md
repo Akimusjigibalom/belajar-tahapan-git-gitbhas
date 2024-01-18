@@ -1,2 +1,2 @@
-# belajar-tahapan-git-gitbhas
-tahapan belajar awal
+# akimus-belajar-git-github
+belajar git &amp; github
